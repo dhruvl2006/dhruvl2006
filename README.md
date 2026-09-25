@@ -1,106 +1,113 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/dhruvl2006)
-<h1 align="center">Hi 👋, I'm Dhruv Lohar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<div align="center">
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=dhruvl2006&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvl2006" /> 
-</p>
+```text
+██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
+██║  ██║███████║██████╔╝██║   ██║██║   ██║
+██║  ██║██╔══██║██╔══██╗██║   ██║██║   ██║
+██████╔╝██║  ██║██║  ██║╚██████╔╝╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
+```
 
+**SOFTWARE DEVELOPER · AI/ML · CYBERSECURITY**
 
-- 🔭 I’m currently working on **HealthHub**
+<img src="https://komarev.com/ghpvc/?username=dhruvl2006&label=PROFILE+VIEWS&color=58a6ff&style=flat-square" alt="profile views" />
 
-- 🌱 I’m currently learning **React Native, Next.js**
+</div>
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/dhruvl2006)
+<br>
 
-- 💬 Ask me about **React**
+```text
+dhruv@github
+──────────────────────────────────────────────────────────────
 
-- 📫 Reach me at **lohar.dhruv07@gmail.com**
+NAME       Dhruv Lohar
+ROLE       Full-Stack Developer
+FOCUS      AI/ML · Cloud · Cybersecurity
+EDUCATION  CSE · IoT & Cybersecurity @ VIT Pune
+LOCATION   Pune, India
 
----
+WORK       NextDR.ai · Software Development Intern
+OS         Arch Linux
+EDITOR     VS Code / Neovim
+STATUS     Building.
+──────────────────────────────────────────────────────────────
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dhruv-lohar-b0b185311/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/dhruvlohar06" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/herd_sharks_77" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/lohar_dhruv07" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/dhruv0406" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/dlohar_06" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@lohar.dhruv07" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/lohardhyx0d" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
-  </a>
-</p>
+### `$ cat ~/stack`
 
----
+```text
+Languages    C++ · TypeScript · JavaScript · Python · Go
+Frontend     React · Next.js · React Native · Tailwind CSS
+Backend      Node.js · Express · FastAPI
+Data         MongoDB · PostgreSQL · Redis
+Infra        Docker · AWS · GCP · Linux
+AI / ML      XGBoost · LightGBM · LLMs · Embedding Search
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  </a>
-</p>
+### `$ ls ~/pinned`
 
----
+```text
+CodeSentinel        → Similarity detection engine: AST normalization,
+                       token comparison & embedding search across repos
+FraudOptima         → Confidence-gated multi-tier fraud detection,
+                       calibrated LightGBM/PyTorch models, FastAPI + React
+PRAHAR              → AI-powered emergency response system
+AegisVault          → Ransomware-resilient backup solution
+HealthHub           → Cross-platform health platform
+MysteryQ            → Anonymous messenger, full-stack
+QuizZone            → MERN-based quiz platform
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvl2006&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvl2006&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvl2006&" alt="GitHub Streak Stats" /></p>
+🏆 **Flipkart GridLock 2.0 — Runner Up**
+
+### `$ neofetch --github`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvl2006&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvl2006&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvl2006&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+
+</div>
+
+### `$ connect`
+
+<div align="center">
+
+<a href="https://github.com/dhruvl2006">
+<img src="https://img.shields.io/badge/GitHub-dhruvl2006-0d1117?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dhruv-lohar-b0b185311/">
+<img src="https://img.shields.io/badge/LinkedIn-dhruv--lohar-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff" />
+</a>
+<a href="https://leetcode.com/dlohar_06">
+<img src="https://img.shields.io/badge/LeetCode-dlohar__06-0d1117?style=flat-square&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="https://codeforces.com/profile/dhruv0406">
+<img src="https://img.shields.io/badge/Codeforces-dhruv0406-0d1117?style=flat-square&logo=codeforces&logoColor=58a6ff" />
+</a>
+<a href="https://dhruvlohar.me/">
+<img src="https://img.shields.io/badge/Website-dhruvlohar.me-0d1117?style=flat-square&logo=firefox&logoColor=58a6ff" />
+</a>
+
+<br><br>
+
+<a href="mailto:hello@dhruvlohar.me">
+<img src="https://img.shields.io/badge/Email-hello%40dhruvlohar.me-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" />
+</a>
+
+</div>
+
+<br>
+
+</div> <br> <div align="center">
+
+──────────────────────────────────────────────────────────────
+
+build → break → understand → rebuild
+
+──────────────────────────────────────────────────────────────
+
+</div>
